@@ -1,5 +1,15 @@
-## Hi there 👋
-I'm a high student from China.
+# Hi there 👋
+高三牲，时不时写一些有趣的项目，致力于用代码解决实际问题，
+
+## Contact me 
+Wechat：Drantirop
+
+Telegram ：https://t.me/slidingrheostat
+## 志趣/Inclination
+阅读
+计算机科学
+摄影
+跨学科学习
 
 
 
